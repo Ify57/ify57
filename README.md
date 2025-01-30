@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**Ify57/ify57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ifeanyi oleforo
 
-Here are some ideas to get you started:
+Hello, GitHub! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm ifeanyi oleforo, a student at Brigham Young University-Idaho interested in web development, machine learning. Welcome to my GitHub profile!
+
+## About Me
+
+- I'm currently learning software development
+- My goals are to become a senior developer by  the year 2029, work in the FAAN company 
+- Ask me about mysql databases, php
+
+## Technologies and Tools
+
+- Proficient in: PHP,mysql db,
+
+
+## Let's Connect!
+
+- Here is my [LinkedIn] linkedin.com/in/ifeanyi-oleforo-10b344346 profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
